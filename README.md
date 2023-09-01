@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 <br>
-Me chamo Rodrigo Dais e sou um Desenvolvedor Front-End, atualmente estou aprendendo e criando alguns projetos com:
+Me chamo Rodrigo Dias e sou um Desenvolvedor Front-End, atualmente estou aprendendo e criando alguns projetos com:
 <br>
 <br>
 <br>
